@@ -162,4 +162,4 @@ can be added to the course repo.
 | Nayani Ilangakoon (student) | Earth Lab | Chathu84 | [https://chathu84.github.io/nayani-I.github.io/](https://chathu84.github.io/nayani-I.github.io/) |
 | Sonita Singh (Researcher/Start-Up) | I-STARRT; Deep South Center for Enivornmental Justice  | OmshantiOm  | [https://github.com/Omshanti0m](https://github.com/Omshanti0m) |
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |  
-| Manoj Pantha (Participant)      | Department of Water Resources and Irrigation, Nepal | manoj pantha |  [https://manojpantha.github.io/](https://manojpantha.github.io/)    |
+| Manoj Pantha (Participant)      | Department of Water Resources and Irrigation, Nepal | manojpantha |  [https://manojpantha.github.io/](https://manojpantha.github.io/)    |
